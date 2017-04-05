@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>src/eraser.jpg</file>
+        <file>src/pen.jpg</file>
+        <file>src/矩形.png</file>
+        <file>src/椭圆.png</file>
+        <file>src/虚框.png</file>
+        <file>src/油漆桶.png</file>
+        <file>src/直线.png</file>
+    </qresource>
+</RCC>
